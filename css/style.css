@@ -9,10 +9,7 @@ body{
     font-weight: 300px;
     align-items: center;
 }
-.header-container{
-    position: fixed;
-    width: 100%;
-}
+
 .header-container2{
     align-items: center;   
     display: flex;
