@@ -8,7 +8,10 @@ body{
     font-size: 20px;
     font-weight: 300px;
     align-items: center;
-    
+}
+.header-container{
+    position: fixed;
+    width: 100%;
 }
 .header-container2{
     align-items: center;   
@@ -202,7 +205,9 @@ a{
 .status-bar{
     width: 600px;
 }
-
+.earn{
+    padding-left: 100px;
+}
 .second-box-content{
     display: flex;
     flex-direction: column;
